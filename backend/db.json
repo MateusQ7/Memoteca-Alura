@@ -1,0 +1,22 @@
+{
+  "pensamentos": [
+    {
+      "id": 1,
+      "conteudo": "Que bom que vc veio",
+      "autoria": "Mateus",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 2,
+      "conteudo": "Estudando Angular",
+      "autoria": "Dev Angular",
+      "modelo": "modelo2"
+    },
+    {
+      "id": 3,
+      "conteudo": "Spring é meu ovo",
+      "autoria": "TypeScriptMan",
+      "modelo": "modelo3"
+    }
+  ]
+}
